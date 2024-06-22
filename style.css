@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#game {
+    display: grid;
+    grid-template-columns: repeat(8, 50px);
+    grid-template-rows: repeat(8, 50px);
+    gap: 2px;
+}
+
+.candy {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    user-select: none;
+}
+
+.candy[data-color="red"] { background-color: red; }
+.candy[data-color="yellow"] { background-color: yellow; }
+.candy[data-color="orange"] { background-color: orange; }
+.candy[data-color="purple"] { background-color: purple; }
+.candy[data-color="green"] { background-color: green; }
+.candy[data-color="blue"] { background-color: blue;}
+
+link head html
