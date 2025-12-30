@@ -1,7 +1,7 @@
 # 👋 Welcome to Vivek's Developer Hub
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&width=600&lines=Flutter+Developer+%7C+Full+Stack+Builder;Competitive+Programmer+%7C+Tech+Enthusiast;MCA+Aspirant+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&width=600&lines=Flutter+Developer+%7C+Full+Stack+Builder;Competitive+Programmer+%7C+Tech+Enthusiast;BSc+Aspirant+%7C+Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,11 +14,11 @@ class Vivek:
         self.name = "Vivek Sawji"
         self.role = "Full-Stack Developer"
         self.location = "Maharashtra, India"
-        self.education = "MCA Aspirant"
+        self.education = "BSc Aspirant"
         self.languages = ["Dart", "Python", "JavaScript", "Java", "HTML/CSS"]
         self.passion = "Building scalable apps & solving complex problems"
         self.currently_learning = ["Advanced UI Patterns", "AI/ML", "Backend Systems"]
-        self.goal = "Become a full-stack engineer & crack MCA CET"
+        self.goal = "Become a full-stack engineer & crack BSc CET"
 ```
 
 ---
