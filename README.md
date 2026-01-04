@@ -29,7 +29,6 @@
 </div>
 
 - Passionate about: Web Development (React, Next.js), Mobile Development (Flutter, Kotlin)
-- Currently: Preparing for MCA CET & STQA Exams
 - Learning: Advanced UI Patterns, AI/ML, Backend Systems, WebSocket Features
 - Goal: Building scalable apps that solve real-world problems
 - Fun Fact: Coffee + Code = Magic
