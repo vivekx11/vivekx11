@@ -1,4 +1,4 @@
-# hey, i'm vivek — web & android developer 🚀
+# hey, i'm vivek a web & android developer 🚀
 
 building fast, clean, and user-focused products with flutter & modern web tech
 
