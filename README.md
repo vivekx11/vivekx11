@@ -23,7 +23,7 @@
 
 ```typescript
 interface Developer {
-  name: string;
+  name: vivek sawji;
   location: string;
   education: Education;
   skills: Skills;
