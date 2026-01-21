@@ -1,173 +1,150 @@
 <div align="center">
-  <img alt="Vivek Sawji's GitHub Profile" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vivek;Full+Stack+Developer;Flutter+%26+Web+Enthusiast;Code+Obsessed" alt="Typing SVG" />
+<a href="https://github.com/vivekx11"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vivek+Sawji;Full+Stack+Developer;Mobile+App+Developer;Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <p>
-    <strong>Connecting Ideas to Code | Building Beautiful UIs | Solving Complex Problems</strong>
-  </p>
-</div>
+<br/>
 
----
+<a href="https://linkedin.com/in/vivekx11"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
+<a href="https://github.com/vivekx11"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
+<a href="mailto:your.email@example.com"><img width="10"/></a>
+<a href="https://instagram.com/vivek.sawji"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
 
-## About Me
+<br/><br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img alt="Code" src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-00FF41?style=flat-square&logo=flutter&logoColor=white" />
-      </td>
-      <td>
-        <img alt="Status" src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square" />
-      </td>
-      <td>
-        <img alt="Vibe" src="https://img.shields.io/badge/Vibe-Code%20Lover-red?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-- Passionate about: Web Development (React, Next.js), Mobile Development (Flutter, Kotlin)
-- Learning: Advanced UI Patterns, AI/ML, Backend Systems, WebSocket Features
-- Goal: Building scalable apps that solve real-world problems
-- Fun Fact: Coffee + Code = Magic
-
----
-## Tech Stack
-
-### Frontend Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Figma](https://skillicons.dev/icons?i=figma)
-
-### Mobile Development
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Dart](https://skillicons.dev/icons?i=dart)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-
-### Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Python](https://skillicons.dev/icons?i=python)
-
-### Tools & DevOps
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
-
----
-## Skill Proficiency
-
-### Web Technologies
-```
-React          ████████░░ 80%
-Next.js        ████████░░ 80%
-Tailwind CSS   █████████░ 90%
-JavaScript     ███████░░░ 70%
-TypeScript     ███████░░░ 70%
-```
-
-### Mobile Development
-```
-Flutter        █████████░ 85%
-Dart           █████████░ 85%
-Android Studio ████████░░ 80%
-Kotlin         ███████░░░ 70%
-```
-
-### Backend
-```
-Node.js        ████████░░ 75%
-Express        ████████░░ 75%
-MongoDB        ███████░░░ 70%
-Firebase       ████████░░ 80%
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekx11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekx11&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekx11&theme=radical" />
-</div>
-
----
-## Currently Working On
-
-- Advanced Flutter UI Patterns - Building complex custom widgets
-- Real-time Chat App - WebSocket integration with Node.js
-- AI Chatbot Integration - Exploring LLM APIs
-- Personal Portfolio - Next.js + 3D animations
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vivek-sawji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/vivekx11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/vivekx11" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:viveksawji5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/vivekx11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Flutter UI Kit** | Building beautiful UIs with Flutter | Flutter, Firebase |
-| **Chat Application** | Real-time chat application | React, Node.js, Socket.io |
-| **My Portfolio** | Personal portfolio website | Next.js, Tailwind CSS |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivekx11/vivekx11/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivekx11/vivekx11/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/vivekx11/vivekx11/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
----
+## 🎯 About Me
 
-## Latest Activity
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  education: Education;
+  skills: Skills;
+  currentFocus: string;
+  funFact: () => string;
+}
+
+const vivek: Developer = {
+  name: "Vivek Sawji",
+  location: "Ambernath, Maharashtra, India",
+  education: {
+    degree: "BSc Information Technology",
+    university: "Your University",
+    year: "Current Year"
+  },
+  skills: {
+    languages: ["Python", "JavaScript", "Dart", "Java", "C", "HTML/CSS"],
+    mobile: ["Flutter", "React Native"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "Vue.js"],
+    backend: ["Node.js", "Express", "Python", "Django"],
+    databases: ["MongoDB", "Firebase", "PostgreSQL", "MySQL"],
+    tools: ["Git", "VS Code", "Figma", "Google Colab"]
+  },
+  currentFocus: "Building scalable full-stack applications & mobile apps",
+  funFact: () => "Coffee + Code = Infinite Loop"
+};
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Dart](https://skillicons.dev/icons?i=dart) ![Java](https://skillicons.dev/icons?i=java) |
+| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) |
+| **Mobile** | ![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react) |
+| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) |
+| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![Render](https://skillicons.dev/icons?i=render) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
+
+<br/>
+
+## 📊 GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vivekx11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&ring_color=A78BFA&border_radius=25)](https://github.com/vivekx11)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivekx11&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=FFFFFF&border_radius=25&langs_count=8)](https://github.com/vivekx11)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekx11&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline&radius=20&area_color=A78BFA)](https://github.com/vivekx11)
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vivekx11&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/vivekx11?tab=achievements)
+
+<br/>
+
+## 📈 Metrics & Insights
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekx11&theme=tokyonight&utcOffset=5.5)](https://github.com/vivekx11)
+
+<br/>
+
+## 🚀 Current Focus
 
 ```
-╮─ Building components
-├─ Debugging the impossible
-├─ Learning new tech
-└─ Coffee breaks
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║                            🎯 MY MISSION                                            ║
+║                                                                                      ║
+║  |-- Master Full-Stack Development with React & Node.js                            ║
+║  |-- Build Production-Ready Mobile Apps with Flutter                               ║
+║  |-- Develop Portfolio Projects for Interviews                                     ║
+║  |-- Master UI/UX Design Principles                                                ║
+║  |-- Contribute to Open Source Community                                           ║
+║                                                                                      ║
+║                            📅 2025-2026 GOALS                                      ║
+║                                                                                      ║
+║  |-- Deploy 10+ Full-Stack Applications                                            ║
+║  |-- Create 5+ Mobile Apps with Flutter                                            ║
+║  |-- Secure Software Development Internship                                        ║
+║  |-- 500+ GitHub Contributions                                                     ║
+║  |-- Build Personal Blog/Portfolio Site                                            ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<br/>
+
+## 🤝 Let's Connect
+
+### Open for Opportunities
+
+**🎯 Looking For:** Internships | Freelance Projects | Collaborations | Open Source | Technical Discussions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekx11)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vivekx11)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek.sawji)
+[![Profile Views](https://komarev.com/ghpvc/?username=vivekx11&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/vivekx11)
+
+[![GitHub Followers](https://img.shields.io/github/followers/vivekx11?label=Followers&style=for-the-badge&color=A78BFA)](https://github.com/vivekx11?tab=followers)
+
+<br/>
+
 ---
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+```
+while (learning) {
+  if (problem) {
+    solutions++;
+  }
+  if (success) {
+    celebrate();
+    learning++;
+  }
+}
+```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekx11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br><br>
-  <p><strong>Let's build something awesome together! </strong></p>
-  <p><em>Always open to collaborations, suggestions, and interesting projects</em></p>
+
+![Purple Divider](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6:0&height=120&section=footer&animation=fadeIn&reversal=true)
+
 </div>
