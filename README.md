@@ -23,12 +23,12 @@
 
 ```typescript
 interface Developer {
-  name: vivek sawji;
-  location: string;
+  name: Vivek Sawji;
+  location: Thane, Mumbai;
   education: Education;
-  skills: Skills;
-  currentFocus: string;
-  funFact: () => string;
+  skills: below you see;
+  currentFocus: web/flutter developer;
+  funFact: () =>  eat-> code-> sleep-> repeat->;
 }
 
 const vivek: Developer = {
@@ -36,8 +36,8 @@ const vivek: Developer = {
   location: "Ambernath, Maharashtra, India",
   education: {
     degree: "BSc Information Technology",
-    university: "Your University",
-    year: "Current Year"
+    university: "Mumbai University",
+    year: "ty"
   },
   skills: {
     languages: ["Python", "JavaScript", "Dart", "Java", "C", "HTML/CSS"],
