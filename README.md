@@ -90,21 +90,21 @@ const vivek: Developer = {
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║                            🎯 MY MISSION                                            ║
+║                            🎯 MY MISSION                                             ║
 ║                                                                                      ║
-║  |-- Master Full-Stack Development with React & Node.js                            ║
-║  |-- Build Production-Ready Mobile Apps with Flutter                               ║
-║  |-- Develop Portfolio Projects for Interviews                                     ║
-║  |-- Master UI/UX Design Principles                                                ║
-║  |-- Contribute to Open Source Community                                           ║
+║  |-- Master Full-Stack Development with React & Node.js                              ║
+║  |-- Build Production-Ready Mobile Apps with Flutter                                 ║
+║  |-- Develop Portfolio Projects for Interviews                                       ║
+║  |-- Master UI/UX Design Principles                                                  ║
+║  |-- Contribute to Open Source Community                                             ║
 ║                                                                                      ║
-║                            📅 2025-2026 GOALS                                      ║
+║                            📅 2025-2026 GOALS                                        ║
 ║                                                                                      ║
-║  |-- Deploy 10+ Full-Stack Applications                                            ║
-║  |-- Create 5+ Mobile Apps with Flutter                                            ║
-║  |-- Secure Software Development Internship                                        ║
-║  |-- 500+ GitHub Contributions                                                     ║
-║  |-- Build Personal Blog/Portfolio Site                                            ║
+║  |-- Deploy 10+ Full-Stack Applications                                              ║
+║  |-- Create 5+ Mobile Apps with Flutter                                              ║
+║  |-- Secure Software Development Internship                                          ║
+║  |-- 500+ GitHub Contributions                                                       ║
+║  |-- Build Personal Blog/Portfolio Site                                              ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
