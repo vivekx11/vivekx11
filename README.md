@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://via.placeholder.com/1200x400/1a1a1a/ffffff?text=VIVEK+SAWJI+Full+Stack+Developer" alt="VIVEK SAWJI Banner" width="100%" />
+</div>
+<div align="center">
 <a href="https://github.com/vivekx11"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vivek+Sawji;Full+Stack+Developer;Mobile+App+Developer;Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" /></a>
 </div>
 
