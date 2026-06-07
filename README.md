@@ -1,159 +1,160 @@
+<!-- NEO-BRUTALIST GITHUB PROFILE README -->
+<!-- Vivek Sawji | vivekx11 -->
+ 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1,A78BFA&height=280&section=header&text=Hey%20there!%20I'm%20Vivek%20Sawji&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Header" />
-
-<div align="center">
-<a href="https://github.com/vivekx11"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vivek+Sawji;Full+Stack+Developer;Mobile+App+Developer;Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" /></a>
+```
+██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗    ███████╗ █████╗ ██╗    ██╗     ██╗██╗
+██║   ██║██║██║   ██║██╔════╝██║ ██╔╝    ██╔════╝██╔══██╗██║    ██║     ██║██║
+██║   ██║██║██║   ██║█████╗  █████╔╝     ███████╗███████║██║ █╗ ██║     ██║██║
+╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗     ╚════██║██╔══██║██║███╗██║██   ██║██║
+ ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗    ███████║██║  ██║╚███╔███╔╝╚█████╔╝██║
+  ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚════╝ ╚═╝
+```
+ 
 </div>
-
-<br/>
-
-<a href="https://linkedin.com/in/vivekx11"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
-<a href="https://github.com/vivekx11"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
-<a href="mailto:your.email@example.com"><img width="10"/></a>
-<a href="https://instagram.com/vivek.sawji"><img src="https://user-images.githubusercontent.com/1521521/1521521.gif" width="50"/></a>
-
-<br/><br/>
-
-
-
-</div>
-
-## 🎯 About Me
-
-```typescript
-interface Developer {
-  name: Vivek Sawji;
-  location: Thane, Mumbai;
-  education: Education;
-  skills: below you see;
-  currentFocus: web/flutter developer;
-  funFact: () =>  eat-> code-> sleep-> repeat->;
-}
-
-const vivek: Developer = {
-  name: "Vivek Sawji",
-  location: "Ambernath, Maharashtra, India",
-  education: {
-    degree: "BSc Information Technology",
-    university: "Mumbai University",
-    year: "ty"
-  },
-  skills: {
-    languages: ["Python", "JavaScript", "Dart", "Java", "C", "HTML/CSS"],
-    mobile: ["Flutter", "React Native"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "Vue.js"],
-    backend: ["Node.js", "Express", "Python", "Django"],
-    databases: ["MongoDB", "Firebase", "PostgreSQL", "MySQL"],
-    tools: ["Git", "VS Code", "Figma", "Google Colab"]
-  },
-  currentFocus: "Building scalable full-stack applications & mobile apps",
-  funFact: () => "Coffee + Code = Infinite Loop"
-};
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-|---|---|
-| **Languages** | ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Dart](https://skillicons.dev/icons?i=dart) ![Java](https://skillicons.dev/icons?i=java) |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) |
-| **Mobile** | ![Flutter](https://skillicons.dev/icons?i=flutter) ![React Native](https://skillicons.dev/icons?i=react) |
-| **Backend** | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) |
-| **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| **Tools** | ![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![GitHub](https://skillicons.dev/icons?i=github) ![Render](https://skillicons.dev/icons?i=render)  |
-
-<br/>
-
-## 📊 GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vivekx11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&ring_color=A78BFA&border_radius=25)](https://github.com/vivekx11)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivekx11&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=FFFFFF&border_radius=25&langs_count=8)](https://github.com/vivekx11)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekx11&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline&radius=20&area_color=A78BFA)](https://github.com/vivekx11)
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vivekx11&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/vivekx11?tab=achievements)
-
-<br/>
-
-## 📈 Metrics & Insights
-
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekx11&theme=tokyonight)](https://github.com/vivekx11)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekx11&theme=tokyonight&utcOffset=5.5)](https://github.com/vivekx11)
-
-<br/>
-
-## 🚀 Current Focus
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║                            🎯 MY MISSION                                             ║
-║                                                                                      ║
-║  |-- Master Full-Stack Development with React & Node.js                              ║
-║  |-- Build Production-Ready Mobile Apps with Flutter                                 ║
-║  |-- Develop Portfolio Projects for Interviews                                       ║
-║  |-- Master UI/UX Design Principles                                                  ║
-║  |-- Contribute to Open Source Community                                             ║
-║                                                                                      ║
-║                            📅 2025-2026 GOALS                                        ║
-║                                                                                      ║
-║  |-- Deploy 10+ Full-Stack Applications                                              ║
-║  |-- Create 5+ Mobile Apps with Flutter                                              ║
-║  |-- Secure Software Development Internship                                          ║
-║  |-- 500+ GitHub Contributions                                                       ║
-║  |-- Build Personal Blog/Portfolio Site                                              ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-## 🤝 Let's Connect
-
-### Open for Opportunities
-
-**🎯 Looking For:** Internships | Freelance Projects | Collaborations | Open Source | Technical Discussions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekx11)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vivekx11)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek.sawji)
-[![Profile Views](https://komarev.com/ghpvc/?username=vivekx11&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/vivekx11)
-
-[![GitHub Followers](https://img.shields.io/github/followers/vivekx11?label=Followers&style=for-the-badge&color=A78BFA)](https://github.com/vivekx11?tab=followers)
-
-<br/>
-
 ---
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-```
-while (learning) {
-  if (problem) {
-    solutions++;
-  }
-  if (success) {
-    celebrate();
-    learning++;
-  }
-}
-```
-
+ 
 <div align="center">
-
-![Purple Divider](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6:0&height=120&section=footer&animation=fadeIn&reversal=true)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=2500&pause=800&color=000000&background=FFEE00&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;MOBILE+APP+DEVELOPER;BSc+IT+%40+MUMBAI+UNIVERSITY;CODE+%2B+COFFEE+%3D+MAGIC)](https://github.com/vivekx11)
+ 
 </div>
-
-
-
-
-
-
-  <img src="https://capsule-render.vercel.app/api?type=soft&#x26;color=gradient&#x26;customColorList=6366F1,8B5CF6&#x26;height=100&#x26;section=footer&#x26;text=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%27s%20bad.&#x26;fontSize=18&#x26;fontColor=ffffff" alt="Footer">
-
-
-  <img src="https://komarev.com/ghpvc/?username=vivekx11&#x26;label=Profile%20Views&#x26;color=A78BFA&#x26;style=for-the-badge" alt="Profile Views">
+---
+ 
+## ▌WHO AM I
+ 
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   NAME    →  Vivek Sawji                                        │
+│   ALIAS   →  vivekx11                                          │
+│   BASE    →  Ambernath, Maharashtra, India                      │
+│   DEGREE  →  BSc Information Technology @ Mumbai University     │
+│   YEAR    →  TYCS | Semester VI                                 │
+│   STATUS  →  Open to Internships & Collaborations              │
+│   MOTTO   →  eat → code → sleep → repeat                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+ 
+---
+ 
+## ▌TECH STACK
+ 
+### ◼ LANGUAGES
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFEE00)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFEE00?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=FFEE00)
+![Dart](https://img.shields.io/badge/DART-000000?style=for-the-badge&logo=dart&logoColor=FFEE00)
+![Java](https://img.shields.io/badge/JAVA-FF3700?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFEE00)
+ 
+### ◼ FRONTEND
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFEE00)
+![Next.js](https://img.shields.io/badge/NEXT.JS-FFEE00?style=for-the-badge&logo=next.js&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFEE00)
+![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vue.js&logoColor=FFEE00)
+![HTML5](https://img.shields.io/badge/HTML5-FF3700?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFEE00)
+ 
+### ◼ MOBILE
+![Flutter](https://img.shields.io/badge/FLUTTER-000000?style=for-the-badge&logo=flutter&logoColor=FFEE00)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-FFEE00?style=for-the-badge&logo=react&logoColor=000000)
+ 
+### ◼ BACKEND
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=FFEE00)
+![Express](https://img.shields.io/badge/EXPRESS-FFEE00?style=for-the-badge&logo=express&logoColor=000000)
+![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=FFEE00)
+ 
+### ◼ DATABASES & TOOLS
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFEE00)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-FFEE00?style=for-the-badge&logo=postgresql&logoColor=000000)
+![Firebase](https://img.shields.io/badge/FIREBASE-FF3700?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=FFEE00)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFEE00)
+![VS Code](https://img.shields.io/badge/VS_CODE-FFEE00?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![Figma](https://img.shields.io/badge/FIGMA-FF3700?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Render](https://img.shields.io/badge/RENDER-000000?style=for-the-badge&logo=render&logoColor=FFEE00)
+ 
+---
+ 
+## ▌GITHUB STATS
+ 
+<div align="center">
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vivekx11&show_icons=true&hide_border=true&bg_color=FFEE00&title_color=000000&icon_color=000000&text_color=000000&ring_color=FF3700&border_radius=0)](https://github.com/vivekx11)
+&nbsp;
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vivekx11&layout=compact&hide_border=true&bg_color=000000&title_color=FFEE00&text_color=FFEE00&border_radius=0&langs_count=8)](https://github.com/vivekx11)
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekx11&bg_color=FFEE00&color=000000&line=000000&point=FF3700&area=true&hide_border=true&custom_title=CONTRIBUTION+TIMELINE&radius=0)](https://github.com/vivekx11)
+ 
+[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=vivekx11&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7)](https://github.com/vivekx11?tab=achievements)
+ 
+</div>
+---
+ 
+## ▌CURRENT MISSION
+ 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  [ACTIVE OBJECTIVES — 2025/26]                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ✦  Master Full-Stack Dev → React + Node.js + PostgreSQL        ║
+║  ✦  Ship Production Flutter Apps                                 ║
+║  ✦  Deploy 10+ Full-Stack Projects                              ║
+║  ✦  Land Software Internship                                    ║
+║  ✦  Hit 500+ GitHub Contributions                               ║
+║  ✦  Build Personal Portfolio / Blog Site                        ║
+║  ✦  Contribute to Open Source                                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+ 
+---
+ 
+## ▌PROFILE METRICS
+ 
+<div align="center">
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekx11&theme=github)](https://github.com/vivekx11)
+ 
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekx11&theme=github)](https://github.com/vivekx11)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekx11&theme=github)](https://github.com/vivekx11)
+ 
+</div>
+---
+ 
+## ▌LET'S CONNECT
+ 
+```
+OPEN FOR → Internships | Freelance | Collabs | Open Source
+```
+ 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFEE00)](https://linkedin.com/in/vivekx11)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFEE00?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/vivekx11)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF3700?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/vivek.sawji)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFEE00)](mailto:your.email@example.com)
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=vivekx11&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/vivekx11)
+[![GitHub Followers](https://img.shields.io/github/followers/vivekx11?label=FOLLOWERS&style=for-the-badge&color=FFEE00&labelColor=000000)](https://github.com/vivekx11?tab=followers)
+ 
+---
+ 
+```
+while (alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+// WARNING: infinite loop intended.
+```
+ 
+<div align="center">
+**"Code is like humor. When you have to explain it, it's bad." — Cory House**
+ 
+</div>
+---
+ 
+<div align="center">
+  <sub>VIVEK SAWJI · AMBERNATH · MUMBAI UNIVERSITY · TYCS · 2025</sub>
+</div>
+ 
